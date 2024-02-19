@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raagz04
+- 👋 Hi, I’m Raagavi DuraiRaj
 - 👀 I’m interested in working on web development projects
 - 🌱 I’m currently working on Anomaly Detection and Caption Generation project
 - 🧠 I'm learning PowerBI tool.
