@@ -1,6 +1,6 @@
 <h1>PEEK INTO MY WORLD😉<h1>
 <h1 align="center">Hi 👋, I'm Raagavi DuraiRaj</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raagz04&label=Profile%20views&color=0e75b6&style=flat" alt="raagz04" /> </p>
 
@@ -8,11 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Anomaly Detection and Caption Generation**
+- 🔭 I’m currently working on **Automatic Weld Defect Detection and Image Processing(Computer Vision) in Dhvani Analytic Intelligence Pvt Ltd**
 
-- 🌱 I’m currently learning **PowerBI**
-
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning , SQL , Image Processing**
 
 - 📫 How to reach me **raagavi20@gmail.com**
 
